@@ -71,6 +71,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datos\Class1.cs" />
+    <Compile Include="Entidades\Class1.cs" />
+    <Compile Include="Logica\Class1.cs" />
+    <Compile Include="Presentacion\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -83,9 +86,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Entidades\" />
-    <Folder Include="Logica\" />
-    <Folder Include="Presentacion\" />
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
